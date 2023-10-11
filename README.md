@@ -1,4 +1,5 @@
-### Hi there 👋
+Student of KSR College of Technology
+CSBS
 
 <!--
 **SrivishnuTS/SrivishnuTS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
